@@ -1,3 +1,7 @@
+#This program helps in opening a website and downloading an file from the webpage.
+#Elements are found using Xpath.
+#The program uses python with selenium 
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 #import action to hover mouse
